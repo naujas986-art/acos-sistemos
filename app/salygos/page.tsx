@@ -30,8 +30,7 @@ export default function Salygos() {
                             1. Bendrosios nuostatos
                         </h2>
                         <p>
-                            Šios sąlygos reglamentuoja ACOS (toliau — „Paslaugų
-                            teikėjas") ir kliento (toliau — „Klientas") santykius,
+                            Šios sąlygos reglamentuoja ACOS ir kliento santykius,
                             susijusius su automatizacijos sprendimų kūrimu ir teikimu.
                             Naudodamiesi mūsų paslaugomis, sutinkate su šiomis
                             sąlygomis.

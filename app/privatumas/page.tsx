@@ -30,10 +30,10 @@ export default function Privatumas() {
                             1. Bendroji informacija
                         </h2>
                         <p>
-                            ACOS (toliau — „mes", „mūsų") gerbia jūsų privatumą ir
-                            įsipareigoja saugoti jūsų asmens duomenis. Ši privatumo
-                            politika paaiškina, kaip renkame, naudojame ir saugome
-                            informaciją, kai naudojatės mūsų svetaine ir paslaugomis.
+                            ACOS gerbia jūsų privatumą ir įsipareigoja saugoti jūsų
+                            asmens duomenis. Ši privatumo politika paaiškina, kaip
+                            renkame, naudojame ir saugome informaciją, kai naudojatės
+                            mūsų svetaine ir paslaugomis.
                         </p>
                     </section>
 
