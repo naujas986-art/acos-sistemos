@@ -18,7 +18,7 @@ export default function Salygos() {
                 </Link>
 
                 <h1 className="text-4xl sm:text-5xl font-bold mb-4 tracking-tight">
-                    Paslaugų teikimo sąlygos
+                    Sąlygos ir Privatumas
                 </h1>
                 <p className="text-[#99A1AF] mb-12">
                     Paskutinį kartą atnaujinta: 2026 m. vasario 10 d.
@@ -45,8 +45,7 @@ export default function Salygos() {
                             ACOS teikia verslo procesų automatizacijos paslaugas,
                             įskaitant, bet neapsiribojant: automatinį klientų
                             aptarnavimą, CRM integraciją, dokumentų automatizavimą ir
-                            kitas individualiai pritaikytas sistemas. Konkreti paslaugų
-                            apimtis nustatoma individualiai po nemokamos konsultacijos.
+                            kitas individualiai pritaikytas sistemas.
                         </p>
                     </section>
 
@@ -55,23 +54,21 @@ export default function Salygos() {
                             3. Nemokamas bandymas
                         </h2>
                         <p>
-                            Klientui suteikiamas nemokamas bandomasis laikotarpis,
-                            kurio metu Klientas gali įvertinti sistemos veikimą.
+                            Klientui suteikiamas nemokamas bandomasis laikotarpis.
                             Mokėjimas pradedamas tik tada, kai Klientas patvirtina,
-                            kad sistema atitinka jo lūkesčius. Bandomojo laikotarpio
-                            trukmė nustatoma individualiai.
+                            kad sistema atitinka jo lūkesčius.
                         </p>
                     </section>
 
                     <section>
                         <h2 className="text-xl font-semibold text-white mb-3">
-                            4. Mokėjimai
+                            4. Privatumo politika
                         </h2>
                         <p>
-                            Kainos nustatomos individualiai pagal projekto apimtį ir
-                            sudėtingumą. Mokėjimo sąlygos aptariamos ir sutariamos prieš
-                            pradedant darbus. Visos kainos nurodomos su PVM arba be PVM,
-                            priklausomai nuo Paslaugų teikėjo mokestinio statuso.
+                            Mes gerbiame jūsų privatumą. Jūsų kontaktinius duomenis
+                            (vardą, el. paštą) naudojame tik tam, kad susisiektume su
+                            jumis dėl paslaugų ir paruoštume pasiūlymus. Duomenys
+                            nėra perduodami trečiosioms šalims.
                         </p>
                     </section>
 
@@ -80,11 +77,9 @@ export default function Salygos() {
                             5. Atsakomybė
                         </h2>
                         <p>
-                            Paslaugų teikėjas įsipareigoja teikti kokybiškas paslaugas
-                            ir užtikrinti sistemų veikimą. Paslaugų teikėjas neatsako
-                            už nuostolius, atsiradusius dėl trečiųjų šalių paslaugų
-                            (pvz., serverių, API tiekėjų) sutrikimų ar force majeure
-                            aplinkybių.
+                            ACOS įsipareigoja užtikrinti sistemų veikimą, tačiau
+                            neatsako už sutrikimus, atsiradusius dėl trečiųjų šalių
+                            (pvz., serverių ar API tiekėjų) klaidų.
                         </p>
                     </section>
 
@@ -93,31 +88,17 @@ export default function Salygos() {
                             6. Sutarties nutraukimas
                         </h2>
                         <p>
-                            Bet kuri šalis gali nutraukti bendradarbiavimą, apie tai
-                            pranešusi kitai šaliai raštu ne vėliau kaip prieš 14
-                            kalendorinių dienų. Jokių ilgalaikių įsipareigojimų ar
-                            baudų už nutraukimą.
+                            Bendradarbiavimą galima nutraukti bet kuriuo metu be jokių
+                            papildomų baudų ar ilgalaikių įsipareigojimų.
                         </p>
                     </section>
 
                     <section>
                         <h2 className="text-xl font-semibold text-white mb-3">
-                            7. Intelektinė nuosavybė
+                            7. Kontaktai
                         </h2>
                         <p>
-                            Visi specialiai Klientui sukurti sprendimai priklauso
-                            Klientui. ACOS pasilieka teisę į bendrinius komponentus
-                            ir metodologijas, kurie gali būti naudojami kituose
-                            projektuose.
-                        </p>
-                    </section>
-
-                    <section>
-                        <h2 className="text-xl font-semibold text-white mb-3">
-                            8. Kontaktai
-                        </h2>
-                        <p>
-                            Dėl sąlygų klausimų kreipkitės el. paštu:{" "}
+                            Iškilus klausimams, susisiekite el. paštu:{" "}
                             <a
                                 href="mailto:vytautas.automation@gmail.com"
                                 className="text-[#BFF549] hover:underline"
