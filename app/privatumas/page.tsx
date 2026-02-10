@@ -5,7 +5,7 @@ export const metadata: Metadata = {
     title: "ACOS",
 };
 
-export default function Salygos() {
+export default function Privatumas() {
     return (
         <main className="min-h-screen bg-black text-white">
             <div className="max-w-3xl mx-auto px-6 py-20">
@@ -17,7 +17,7 @@ export default function Salygos() {
                 </Link>
 
                 <h1 className="text-4xl sm:text-5xl font-bold mb-4 tracking-tight">
-                    Paslaugų teikimo sąlygos
+                    Privatumo politika
                 </h1>
                 <p className="text-[#99A1AF] mb-12">
                     Paskutinį kartą atnaujinta: 2026 m. vasario 10 d.
@@ -26,31 +26,34 @@ export default function Salygos() {
                 <div className="space-y-10 text-[#99A1AF] leading-relaxed">
                     <section>
                         <h2 className="text-xl font-semibold text-white mb-3">
-                            1. Bendrosios nuostatos
+                            1. Bendroji informacija
                         </h2>
                         <p>
-                            Šios sąlygos reglamentuoja ACOS ir kliento santykius,
-                            susijusius su automatizacijos sprendimų kūrimu ir teikimu.
+                            ACOS gerbia jūsų privatumą ir įsipareigoja saugoti jūsų
+                            asmens duomenis. Ši privatumo politika paaiškina, kaip
+                            renkame, naudojame ir saugome informaciją.
                         </p>
                     </section>
 
                     <section>
                         <h2 className="text-xl font-semibold text-white mb-3">
-                            2. Nemokamas bandymas
+                            2. Kokius duomenis renkame
                         </h2>
-                        <p>
-                            Klientui suteikiamas nemokamas bandomasis laikotarpis.
-                            Mokėjimas pradedamas tik po sistemos patvirtinimo.
-                        </p>
+                        <ul className="list-disc list-inside space-y-2">
+                            <li>Kontaktinė informacija (vardas, el. paštas).</li>
+                            <li>Techniniai duomenys (slapukai).</li>
+                        </ul>
                     </section>
 
                     <section>
                         <h2 className="text-xl font-semibold text-white mb-3">
-                            3. Nutraukimas
+                            3. Kontaktai
                         </h2>
                         <p>
-                            Bendradarbiavimą galima nutraukti bet kuriuo metu be jokių
-                            papildomų baudų.
+                            El. paštas:{" "}
+                            <a href="mailto:vytautas.automation@gmail.com" className="text-[#BFF549] hover:underline">
+                                vytautas.automation@gmail.com
+                            </a>
                         </p>
                     </section>
                 </div>
