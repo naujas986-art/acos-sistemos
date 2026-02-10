@@ -141,10 +141,16 @@ export default function FooterCTA() {
 
                     <div className="flex items-center gap-6">
                         <a
+                            href="/privatumas"
+                            className="hover:text-white transition-colors duration-300"
+                        >
+                            Privatumas
+                        </a>
+                        <a
                             href="/salygos"
                             className="hover:text-white transition-colors duration-300"
                         >
-                            Sąlygos ir Privatumas
+                            Sąlygos
                         </a>
                     </div>
                 </div>
