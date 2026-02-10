@@ -9,21 +9,21 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-    title: "ACOS | Automated Client Operating System",
+    title: "ACOS",
     description:
-        "Transform chaos into clarity. AI-driven automation ecosystem that puts your entire business on autopilot.",
+        "Paverskite chaosą tvarka. Dirbtiniu intelektu pagrįsta automatizavimo ekosistema, kuri jūsų verslą valdo autopiloto režimu.",
     keywords: [
-        "automation",
-        "client management",
-        "AI",
-        "business automation",
+        "automatizacija",
+        "klientų valdymas",
+        "dirbtinis intelektas",
+        "verslo automatizavimas",
         "CRM",
         "Airtable",
     ],
     openGraph: {
-        title: "ACOS | Automated Client Operating System",
+        title: "ACOS | Automatizuota Klientų Aptarnavimo Sistema",
         description:
-            "Transform chaos into clarity. AI-driven automation ecosystem that puts your entire business on autopilot.",
+            "Paverskite chaosą tvarka. Dirbtiniu intelektu pagrįsta automatizavimo ekosistema, kuri jūsų verslą valdo autopiloto režimu.",
         type: "website",
     },
 };
@@ -34,7 +34,7 @@ export default function RootLayout({
     children: React.ReactNode;
 }>) {
     return (
-        <html lang="en" className="scroll-smooth">
+        <html lang="lt" className="scroll-smooth">
             <body className={`${inter.variable} antialiased`}>{children}</body>
         </html>
     );
